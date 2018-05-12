@@ -22,6 +22,8 @@ creator:
     gutenberg_agent_id: '34828'
     url: http://www.gutenberg.org/2009/agents/34828
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46313#Jones-of-the-64thA-Tale-of-the-Battles-of-Assaye-and-Laswaree
 gutenberg_issued: '2014-07-17'
 gutenberg_type: Text
 identifiers:
